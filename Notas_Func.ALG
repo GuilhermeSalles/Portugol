@@ -24,21 +24,21 @@ inicio
       fimse
 fimprocedimento
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    N1,N2,MP:real
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
-   escreva("Digite a 1° nota: ")
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
+   escreva("Digite a 1Â° nota: ")
    leia(N1)
-   escreva("Digite a 2° nota: ")
+   escreva("Digite a 2Â° nota: ")
    leia(N2)
 
    se validacao = verdadeiro entao
       p1
-      escreval("Média ponderada:",MP)
+      escreval("MÃ©dia ponderada:",MP)
+      p2
    senao
         escreval("ERROR")
    fimse
 
-   p2
 Fimalgoritmo
